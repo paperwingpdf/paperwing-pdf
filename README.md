@@ -9,7 +9,7 @@ No sign-up, no watermarks, no daily limits, and your documents never leave your 
 
 **[👉 Open Paperwing — paperwingpdf.com](https://paperwingpdf.com)**
 
-[![Paperwing – free, private PDF tools](https://paperwingpdf.com/og.png)](https://paperwingpdf.com)
+[![Paperwing – free, private PDF tools](https://paperwingpdf.com/og.png?v=50)](https://paperwingpdf.com)
 
 </div>
 
