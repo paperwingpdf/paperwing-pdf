@@ -1,15 +1,15 @@
 <div align="center">
 
-# Paperwing
+# PaperwingPDF
 
 ### Free PDF tools that never upload your files
 
 Merge, split, compress, convert, sign and edit PDFs right in your browser.
 No sign-up, no watermarks, no daily limits, and your documents never leave your device.
 
-**[👉 Open Paperwing — paperwingpdf.com](https://paperwingpdf.com)**
+**[👉 Open Paperwingpdf — paperwingpdf.com](https://paperwingpdf.com)**
 
-[![Paperwing – free, private PDF tools](https://paperwingpdf.com/og.png?v=50)](https://paperwingpdf.com)
+[![Paperwingpdf – free, private PDF tools](https://paperwingpdf.com/og.png?v=50)](https://paperwingpdf.com)
 
 <a href="https://www.saashub.com/paperwing?utm_source=badge&utm_campaign=badge&utm_content=paperwing&badge_variant=color&badge_kind=approved"><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Approved on SaaSHub" width="150"></a>
 
