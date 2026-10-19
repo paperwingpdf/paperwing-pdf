@@ -11,7 +11,10 @@ No sign-up, no watermarks, no daily limits, and your documents never leave your 
 
 [![Paperwing – free, private PDF tools](https://paperwingpdf.com/og.png?v=50)](https://paperwingpdf.com)
 
+<a href="https://www.saashub.com/paperwing?utm_source=badge&utm_campaign=badge&utm_content=paperwing&badge_variant=color&badge_kind=approved"><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Approved on SaaSHub" width="150"></a>
+
 </div>
+
 
 ---
 
