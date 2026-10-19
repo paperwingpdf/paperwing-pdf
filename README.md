@@ -11,18 +11,18 @@ No sign-up, no watermarks, no daily limits, and your documents never leave your 
 
 [![Paperwingpdf – free, private PDF tools](https://paperwingpdf.com/og.png?v=50)](https://paperwingpdf.com)
 
-<a href="https://www.saashub.com/paperwing?utm_source=badge&utm_campaign=badge&utm_content=paperwing&badge_variant=color&badge_kind=approved"><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Approved on SaaSHub" width="150"></a>
+<a href="https://www.saashub.com/paperwingpdf?utm_source=badge&utm_campaign=badge&utm_content=paperwingpdf&badge_variant=color&badge_kind=approved"><img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="Approved on SaaSHub" width="150"></a>
 
 </div>
 
 
 ---
 
-## Why Paperwing?
+## Why Paperwingpdf?
 
-Most online PDF tools upload your files to their servers. Paperwing doesn't. Every tool runs inside your browser tab, so contracts, IDs and medical records stay on your own computer or phone.
+Most online PDF tools upload your files to their servers. Paperwingpdf doesn't. Every tool runs inside your browser tab, so contracts, IDs and medical records stay on your own computer or phone.
 
-| | Paperwing |
+| | Paperwingpdf |
 | --- | --- |
 | Price | **Free** |
 | Account needed | **No** |
@@ -74,7 +74,7 @@ Most online PDF tools upload your files to their servers. Paperwing doesn't. Eve
 
 ## FAQ
 
-**Is Paperwing free?**
+**Is Paperwingpdf free?**
 Yes. No sign-up, no watermark and no daily limit.
 
 **Are my files uploaded?**
@@ -84,7 +84,7 @@ No. Files are processed inside your browser and cleared from memory when you clo
 Up to 300 MB per file. Very large files depend on your device's memory.
 
 **Does it work offline?**
-Yes. Once you've opened a tool, it keeps working without internet. In Chrome or Edge you can also install Paperwing as an app.
+Yes. Once you've opened a tool, it keeps working without internet. In Chrome or Edge you can also install Paperwingpdf as an app.
 
 ## Feedback
 
