@@ -1,6 +1,6 @@
 <div align="center">
 
-# PaperWing
+# PaperWingPDF
 
 ### Free PDF tools that never upload your files
 
