@@ -33,7 +33,7 @@ Most online PDF tools upload your files to their servers. Paperwingpdf doesn't. 
 | Install as an app | **Yes** (Chrome & Edge) |
 | Languages | **12**, including Arabic, Hindi and Urdu |
 
-## 50 tools in one place
+## 53 tools in one place
 
 **Organize**
 [Merge PDF](https://paperwingpdf.com/merge-pdf/) · [Split PDF](https://paperwingpdf.com/split-pdf/) · [Remove pages](https://paperwingpdf.com/remove-pages/) · [Remove blank pages](https://paperwingpdf.com/remove-blank-pages/) · [Extract pages](https://paperwingpdf.com/extract-pages/) · [Organize PDF](https://paperwingpdf.com/organize-pdf/) · [Rotate PDF](https://paperwingpdf.com/rotate-pdf/) · [Resize pages](https://paperwingpdf.com/resize-pdf/) · [Pages per sheet](https://paperwingpdf.com/pdf-pages-per-sheet/) · [Make a booklet](https://paperwingpdf.com/pdf-booklet/)
