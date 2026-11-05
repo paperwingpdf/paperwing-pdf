@@ -39,4 +39,14 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 
 - **Hide personal info** – finds names, emails, phone numbers, ID and card numbers, and lets you review every match before it is removed for good.
 - **Seal & verify** – add a tamper-evident seal to a PDF, and let anyone check later that it hasn't been changed.
-- **Upload-ready PDF** – shrinks a document to fit a form's size
+- **Upload-ready PDF** – shrinks a document to fit a form's size limit (for example 200 KB) in one step.
+- **Workflows** – chain several tools together and reuse the steps.
+- **Private translation** – translate PDFs into 40+ languages on your device.
+
+## Works everywhere
+
+Use it in any modern browser on Windows, Mac, Linux, Android and iPhone, or install the browser extension and the Windows app.
+
+## Feedback
+
+Found a bug or have an idea? [Open an issue](../../issues) or use the [contact page](https://paperwingpdf.com/contact/).
