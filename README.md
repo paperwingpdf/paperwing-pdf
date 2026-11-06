@@ -1,6 +1,6 @@
 # Paperwing PDF
 
-**59 free PDF tools that run entirely in your browser. Your files never leave your device.**
+**60 free PDF tools that run entirely in your browser. Your files never leave your device.**
 
 🌐 **[paperwingpdf.com](https://paperwingpdf.com)**
 
@@ -14,12 +14,13 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 
 ## New in November 2026
 
+- **AI writing assistant** – fix grammar and spelling, make emails more formal or friendly, shorten text or draft a reply. It runs on your device, so your text is never sent anywhere.
 - **Chat with PDF** – ask questions about a PDF and get answers with page numbers. Nothing is uploaded.
 - **PDF quiz maker** – turn notes and chapters into multiple-choice quizzes with an answer key.
 - **Resize image to KB** – make photos and signatures fit form limits like 20 KB or 50 KB.
 - **CV & resume checker** – see whether hiring software (ATS) can read your CV.
 
-## 59 tools in one place
+## 60 tools in one place
 
 **Organize:** Merge PDF, Split PDF, Remove pages, Remove blank pages, Extract pages, Organize PDF, Rotate PDF, Resize pages, Pages per sheet, Make a booklet, Merge scanned sides
 
@@ -33,7 +34,7 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 
 **Security & privacy:** Hide personal info, Seal PDF, Verify sealed PDF, Check PDF safety, Remove hidden data, Protect PDF, Unlock PDF, Redact PDF, Edit PDF metadata
 
-**PDF intelligence:** Chat with PDF, PDF quiz maker, CV & resume checker, Compare PDF, AI Summarizer, Translate PDF, PDF to Markdown, Listen to PDF
+**PDF intelligence:** AI writing assistant, Chat with PDF, PDF quiz maker, CV & resume checker, Compare PDF, AI Summarizer, Translate PDF, PDF to Markdown, Listen to PDF
 
 ## Highlights
 
