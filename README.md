@@ -14,6 +14,7 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 
 ## New in November 2026
 
+- **Prepare an application** – a guided checklist for job, university, visa, government and tender applications. Enter the portal's rules (format, size limit, pages, photo size, signature, expiry date), add your files, see what's missing or wrong, fix most problems in one click and download one package as a ZIP or a single PDF. Nothing is uploaded. [Try it](https://paperwingpdf.com/prepare-application/)
 - **AI writing assistant** – fix grammar and spelling, make emails more formal or friendly, shorten text or draft a reply. It runs on your device, so your text is never sent anywhere.
 - **Chat with PDF** – ask questions about a PDF and get answers with page numbers. Nothing is uploaded.
 - **PDF quiz maker** – turn notes and chapters into multiple-choice quizzes with an answer key.
@@ -41,6 +42,7 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 - **Hide personal info** – finds names, emails, phone numbers, ID and card numbers, and lets you review every match before it is removed for good.
 - **Seal & verify** – add a tamper-evident seal to a PDF, and let anyone check later that it hasn't been changed.
 - **Upload-ready PDF** – shrinks a document to fit a form's size limit (for example 200 KB) in one step.
+- **Prepare an application** – checks every document against an application's rules, fixes common problems and builds a ready-to-upload package.
 - **Workflows** – chain several tools together and reuse the steps.
 - **Private translation** – translate PDFs into 40+ languages on your device.
 
