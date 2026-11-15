@@ -21,6 +21,21 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 - **Resize image to KB** – make photos and signatures fit form limits like 20 KB or 50 KB.
 - **CV & resume checker** – see whether hiring software (ATS) can read your CV.
 
+
+## Screenshots
+
+**Prepare an application:** enter a portal's rules, add your files, fix what's wrong, download one package.
+
+| Check results | One-click fix with before and after |
+|---|---|
+| ![Check results grouped by Needs fixing, Review yourself and Ready](docs/screenshots/prepare-application-check.png) | ![A passport photo resized from 4000 × 3000 px to 600 × 600 px, before and after](docs/screenshots/prepare-application-fix.png) |
+| **Everything ready** | **Package created: ZIP, single PDF, report and manifest** |
+| ![All five documents marked Ready](docs/screenshots/prepare-application-ready.png) | ![Download screen with a ZIP and a single PDF that was re-checked after merging](docs/screenshots/prepare-application-package.png) |
+
+<p align="center"><img src="docs/screenshots/prepare-application-mobile.png" width="300" alt="Check results on a phone"></p>
+
+Screenshots use sample documents. Everything shown runs in the browser; no file is uploaded.
+
 ## 60 tools in one place
 
 **Organize:** Merge PDF, Split PDF, Remove pages, Remove blank pages, Extract pages, Organize PDF, Rotate PDF, Resize pages, Pages per sheet, Make a booklet, Merge scanned sides
