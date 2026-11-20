@@ -14,6 +14,7 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 
 ## New in November 2026
 
+- **PaperWingPDF Writing Check for Windows** – a free grammar checker and writing assistant for Word, Outlook, Chrome, Edge and other Windows programs. Mistakes are underlined as you type; select any text and click **✦ Improve** to polish, rephrase, change the tone or translate it. A private AI runs on your PC, so your emails and documents are never uploaded, and it works offline. [Get it from the Microsoft Store](https://apps.microsoft.com/detail/9P8NJHS3ZBM7)
 - **Prepare an application** – a guided checklist for job, university, visa, government and tender applications. Enter the portal's rules (format, size limit, pages, photo size, signature, expiry date), add your files, see what's missing or wrong, fix most problems in one click and download one package as a ZIP or a single PDF. Nothing is uploaded. [Try it](https://paperwingpdf.com/prepare-application/)
 - **AI writing assistant** – fix grammar and spelling, make emails more formal or friendly, shorten text or draft a reply. It runs on your device, so your text is never sent anywhere.
 - **Chat with PDF** – ask questions about a PDF and get answers with page numbers. Nothing is uploaded.
@@ -63,7 +64,14 @@ Screenshots use sample documents. Everything shown runs in the browser; no file 
 
 ## Works everywhere
 
-Use it in any modern browser on Windows, Mac, Linux, Android and iPhone, or install the browser extension and the Windows app.
+Use it in any modern browser on Windows, Mac, Linux, Android and iPhone, or install one of the apps:
+
+| | What it does | Get it |
+|---|---|---|
+| **PaperWingPDF Writing Check** (new) | Checks your English as you type in Word, Outlook, Chrome, Edge and other Windows programs. Private AI on your PC; works offline. | [Microsoft Store](https://apps.microsoft.com/detail/9P8NJHS3ZBM7) |
+| **PaperWingPDF for Windows** | All PDF tools as a Windows app | [Microsoft Store](https://apps.microsoft.com/detail/9pd9d615pf7p) |
+| **Browser extension** | PDF tools, plus the writing check in Gmail, Outlook on the web and other sites | [Chrome](https://chromewebstore.google.com/detail/hfleiiikpokjfljncenddgkpegldgkpg) · [Edge](https://microsoftedge.microsoft.com/addons/detail/paperwingpdf-%E2%80%93-private-pd/idcfphbfgpdgckeaefjifcaoekjdjnai) |
+| **Word & Outlook add-in** | Writing check inside Word and Outlook, including on the web and Mac | [paperwingpdf.com/office](https://paperwingpdf.com/office/) |
 
 ## Feedback
 
