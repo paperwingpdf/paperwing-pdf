@@ -23,6 +23,26 @@ Most online PDF tools upload your documents to their servers. Paperwing doesn't.
 - **CV & resume checker** – see whether hiring software (ATS) can read your CV.
 
 
+## PaperWingPDF Writing Check for Windows
+
+A free grammar checker and writing assistant that runs on your own PC. [Get it from the Microsoft Store](https://apps.microsoft.com/detail/9P8NJHS3ZBM7)
+
+- **Checks as you type** in Word, Outlook, Chrome, Edge and most other Windows programs. Mistakes are underlined; click one to fix it.
+- **✦ Improve any text:** select a sentence or paragraph to polish it, rephrase it, make it more formal or friendly, shorten it or translate it.
+- **Private by design:** grammar checking and the AI both run on your computer. Your emails, contracts and documents are never uploaded, and it works offline.
+- **Free, no account,** and no word limits.
+- **Requirements:** Windows 10 (version 1809 or later) or Windows 11, 64-bit.
+
+| Fix mistakes as you type | Improve a sentence |
+|---|---|
+| ![A mistake underlined in an email with a one-click fix](docs/screenshots/writing-check-fix.png) | ![Improve rewriting a sentence more clearly](docs/screenshots/writing-check-improve.png) |
+| **Rephrase or change the tone** | **Translate** |
+| ![Rephrase options for a selected sentence](docs/screenshots/writing-check-rephrase.png) | ![A sentence translated into Arabic](docs/screenshots/writing-check-translate.png) |
+
+<p align="center"><img src="docs/screenshots/writing-check-list.png" width="640" alt="All suggestions in the text listed at once"></p>
+
+Prefer the browser? The same writing check is in the [Chrome](https://chromewebstore.google.com/detail/hfleiiikpokjfljncenddgkpegldgkpg) and [Edge](https://microsoftedge.microsoft.com/addons/detail/paperwingpdf-%E2%80%93-private-pd/idcfphbfgpdgckeaefjifcaoekjdjnai) extensions and the online [AI writing assistant](https://paperwingpdf.com/ai-writing-assistant/).
+
 ## Screenshots
 
 **Prepare an application:** enter a portal's rules, add your files, fix what's wrong, download one package.
